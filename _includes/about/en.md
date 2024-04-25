@@ -6,4 +6,5 @@ Beyond professional topics, I am also keen on sharing high-quality online resour
 
 Through my articles, you will gain practical information and personal insights about data analysis. Whether you are a fellow seeker of inspiration or a friend hoping to learn new skills, I look forward to every interaction with you.
 
-Feel free to leave comments under the blog or contact me via xmuhao@yeah.net. Thank you for visiting and supporting my blog. I hope you find valuable and inspiring content here.
+Feel free to leave comments under the blog or contact me via mailto:xmuhao@yeah.net. Thank you for visiting and supporting my blog. I hope you find valuable and inspiring content here.
+
