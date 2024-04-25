@@ -1,10 +1,10 @@
 # Site settings
-title: Trumokl Blog
-SEOTitle: Trumokl的博客 | Trumokl Blog
+title: Xuhao Blog
+SEOTitle: Xuhao的博客 | Xuhao Blog
 header-img: img/home-bg.jpg
 email: xuhao@xuhao.cloudns.ch
-description: "这里是 @Trumokl 的个人博客，与你一起发现更大的世界 | 要做一个有 dream 的程序员"
-keyword: "Trumokl, Trumokl Blog, 博客, 个人网站"
+description: "这里是 @Xuhao 的个人博客，与你一起发现更大的世界 | 要做一个有 dream 的程序员"
+keyword: "Xuhao, Xuhao Blog, xuhao, xuhao's blog,  博客, 个人网站"
 url: "https://xuhao.cloudns.ch" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
